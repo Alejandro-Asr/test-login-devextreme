@@ -1,11 +1,14 @@
 import React from 'react';
-import { TestLogin } from './TestLogin';
+import { RegisterPage } from './pages/RegisterPage';
+import { TestLogin } from './pages/TestLogin';
+import 'devextreme/dist/css/dx.material.purple.dark.css';
 
 function App() {
   return (
-    <>
+    <div>
+      {/* <RegisterPage /> */}
       <TestLogin />
-    </>
+    </div>
   );
 }
 

@@ -1,0 +1,31 @@
+/* BOX LOGIN */
+.boxLogin{
+	position: relative;
+	margin: auto;
+	height: 375px;
+    top: 50%;
+	left: 0;
+    z-index: 200;
+    right: 0;
+    width:400px;
+    background-color:rgba(85, 84, 84, 0.9);
+	/*
+
+
+	color:#666;
+	border-radius: 3px;
+	background: #666;
+    background-color:rgba(85, 84, 84, 0.9);
+    opacity: 0.6;
+    margin-bottom: 100px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    overflow: hidden; */
+}
+.boxLoginTitulo{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: 'red';
+    margin: 0 0 20px 0;
+}
